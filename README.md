@@ -25,7 +25,7 @@ Check out a live demo [here](#).
 1. **Clone the Repository**:  
    Clone the repository to your local machine:  
    ```sh  
-   git clone https://github.com/your-username/simplefolio.git  
+   git clone https://github.com/RohanGhalib/simplefolio.git  
    ```  
 
 2. **Open in Browser**:  
